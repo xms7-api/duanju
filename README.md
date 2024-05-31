@@ -10,7 +10,7 @@
 
 
 搜索接口地址：<br/>
-> `https://api.xms7.xyz/xms7/api/mov?q=短剧关键字`
+> `https://api.xms7.xyz/xms7/api/mov?q=短剧关键字&offset=1&limit=20`
 
 返回数据:
 ```
